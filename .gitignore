@@ -1,0 +1,4 @@
+# Jangan commit kredensial lokal jika Anda memakai file config.js terpisah.
+# Untuk web statis, anon/publishable key boleh berada di browser, tetapi RLS wajib aktif.
+.env
+.DS_Store
